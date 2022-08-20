@@ -91,6 +91,7 @@ h4{
     }
     .d-b{
         display: block;
+        text-align: center !important;
 
     }
     .name input{
